@@ -16,6 +16,7 @@ print(b)
 ~~~
 
 ## Output
+<img width="240" height="177" alt="image" src="https://github.com/user-attachments/assets/7b5f6091-eb58-474e-8f9c-cc2a49390da7" />
 
 ## Result
 Thus, The Python program that prints the characters 'T' and 'a' using character literals was executed successfully.
